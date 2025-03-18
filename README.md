@@ -6,12 +6,8 @@
 The **E-Commerce Website** is a fully functional web application that enables users to browse, search, and purchase products online. The platform includes features such as user authentication, a shopping cart, order management, and secure payment processing.
 
 ## Features
-- User authentication (Sign up, Login, Logout)
 - Product browsing and search functionality
 - Shopping cart and wishlist management
-- Order placement and history tracking
-- Payment gateway integration
-- Admin panel for product and order management
 - Secure and responsive design
 
 ## Technologies Used
