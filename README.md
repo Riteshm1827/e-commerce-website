@@ -19,7 +19,6 @@ The **E-Commerce Website** is a fully functional web application that enables us
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
 - **Authentication:** JWT (JSON Web Token)
-- **Payment Gateway:** Stripe/PayPal (as applicable)
 
 ## Installation
 Follow these steps to set up the project locally:
