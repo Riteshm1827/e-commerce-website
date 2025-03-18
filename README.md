@@ -45,11 +45,9 @@ Follow these steps to set up the project locally:
 7. Open your browser and go to `http://localhost:3000` to use the application.
 
 ## Usage
-- **User Registration & Login**: Users can sign up and log in to their accounts.
 - **Product Browsing**: View and search for products in different categories.
 - **Cart Management**: Add or remove products from the shopping cart.
-- **Checkout & Payment**: Complete purchases securely using integrated payment gateways.
-- **Admin Panel**: Manage products, categories, and customer orders.
+
 
 ## Contributing
 Contributions are welcome! Follow these steps to contribute:
